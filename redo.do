@@ -1,1 +1,1 @@
-
+ghc redo.hs
